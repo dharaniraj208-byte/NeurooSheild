@@ -1,0 +1,6 @@
+{
+  "name": "NeuroShield - Stroke Rehab & Emergency AI Monitor",
+  "description": "Real-time AI stroke symptom detection, continuous live camera & CCTV monitoring, emergency admin dispatch with SMS/call alerts, multi-language 'Hey Neuro' voice assistant, and comprehensive neuromuscular rehab therapy suite.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
